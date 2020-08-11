@@ -4,7 +4,7 @@ I'm a Husband, Father, Developer, and Mentor!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Symphony-Solutions as Python/DevOps.
+- 🔭 I’m currently working in Symphony-Solutions as Python/AI Engineer.
 - 🌱 I’m currently learning AI Concepts 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
