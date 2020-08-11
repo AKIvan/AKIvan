@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ivan Adji - Krstev - aka [AKIvan][website] 👋
 
-<!--
-**AKIvan/AKIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Father, Developer, and Mentor!
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img align="left" alt="akivan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.linkedin.com/in/ivanadji-krstev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://twitter.com/IvanAdjiKrstev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
