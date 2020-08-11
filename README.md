@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan Adji - Krstev - aka [AKIvan][website] 👋
+### Hi there, I'm Ivan Adji - Krstev - [AKIvan](https://akivan.com) 👋
 
 ## I'm a Husband, Father, Developer, and Mentor!
 
