@@ -1,17 +1,13 @@
 ### Hi there, I'm Ivan Adji - Krstev - [AKIvan](https://akivan.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Husband, Father, Developer, and Mentor!
+I'm an AI enthusiast and an experienced IT professional in Python Developing, Cloud Designing and Linux with over 8 years of experience in the field. 
+I have experience with large scale systems, Design, Development, Implementation of various stand and analysis of applications. 
 
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working in Symphony-Solutions as Python/AI Engineer.
-- 🌱 I’m currently learning AI Concepts 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 In a free time im working on [EMBRY](https://embryai.com) (AI Application for IVF)
+- 👯 I’m looking to collaborate on AI Projects
 
 
 ### Connect with me:
