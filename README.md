@@ -5,7 +5,7 @@ I have experience with large scale systems, Design, Development, Implementation 
 
 ---
 
-- 🔭 I’m currently working in Symphony-Solutions as Python/AI Engineer.
+- 🔭 I’m currently working in ENDAVA as Python DevOps - AI Engineer.
 - 🌱 In a free time im working on [EMBRY](https://embryai.com) (AI Application for IVF)
 - 👯 I’m looking to collaborate on AI Projects
 
