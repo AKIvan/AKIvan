@@ -13,8 +13,8 @@ I have experience with large scale systems, Design, Development, Implementation 
 ### Connect with me:
 
 [<img align="left" alt="akivan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://akivan.com)
-[<img align="left" alt="www.linkedin.com/in/ivanadji-krstev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ivanadji-krstev)
-[<img align="left" alt="https://twitter.com/IvanAdjiKrstev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/IvanAdjiKrstev)
+[<img align="left" alt="www.linkedin.com/in/ivanadji-krstev | LinkedIn" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://linkedin.com/in/ivanadji-krstev)
+[<img align="left" alt="https://twitter.com/IvanAdjiKrstev | Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/twitter/twitter.png" />](https://twitter.com/IvanAdjiKrstev)
 
 <br />
 
