@@ -1,6 +1,7 @@
 ### Hi there, I'm Ivan Adji - Krstev - [AKIvan](https://akivan.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm an AI enthusiast and an experienced IT professional in Python DevOps - Developing, Cloud Designing and Linux with over 9 years of experience in the field. 
+Consulted in DevOps and AI processes.
+AI enthusiast and an experienced IT professional in Python DevOps - Cloud Designing with over 10 years of experience in the field.
 I have experience with large scale systems, Design, Development, Implementation of various stand and analysis of applications. 
 
 ---
