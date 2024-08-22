@@ -97,3 +97,19 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 </div>
+
+
+
+### 📊 Showcase Your Stats
+
+---
+
+### 📊 Showcase Your Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKIvan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKIvan&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKIvan&theme=radical" alt="GitHub Streak" />
+</div>
